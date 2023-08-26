@@ -54,8 +54,8 @@ human.getAll = function () { // funkcja jest w prototypach ale nie uzywamy proto
 // console.log(human.prototype);
 
 
-var y = new Point3D(3, 4, 5);
-y.y = 774;
+var y = new Point3D(3, 4, 54);
+y.y = 7747;
 console.log(y instanceof Point3D);
 // console.log(Object.getPrototypeOf(y));
 var q = Object.create(y)

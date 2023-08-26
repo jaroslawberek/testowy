@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../template"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vue"
+	}
+}
